@@ -1,0 +1,20 @@
+0 = Empty Seat, L = Lady, M = Male, F = Family (1 Mo = Mother, 2 C = Child), MT = Male Teen
+
+              DOOR
+
+0   0       0   0   
+0   0       0   0   
+0   0       0   0   
+0   0       0   0   
+
+               DOOR
+
+0   0       0   0   
+0   0       0   0   
+0   0       0   0   
+0   0       0   0   
+
+               DOOR
+
+
+-----------------------------------

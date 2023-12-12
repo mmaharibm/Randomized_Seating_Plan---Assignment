@@ -1,0 +1,6 @@
+5
+Board: 3L 5M /
+Leave: 1L Board: 3F /
+Leave: 1F 1L Board: 5L 3M /
+Board: 6M /
+Leave: 1F Board: 4MT /

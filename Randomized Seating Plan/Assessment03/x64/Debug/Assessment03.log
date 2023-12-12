@@ -1,0 +1,4 @@
+﻿  Assessment03.cpp
+C:\Users\mmaha\source\repos\Assessment03\Assessment03\Assessment03.cpp(123,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mmaha\source\repos\Assessment03\Assessment03\Assessment03.cpp(141,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Assessment03.vcxproj -> C:\Users\mmaha\source\repos\Assessment03\x64\Debug\Assessment03.exe
